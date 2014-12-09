@@ -1,0 +1,10 @@
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\bin\Debug\DemoEF.DAL.dll.config
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\bin\Debug\DemoEF.DAL.dll
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\bin\Debug\DemoEF.DAL.pdb
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\bin\Debug\EntityFramework.dll
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\bin\Debug\EntityFramework.xml
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\obj\Debug\DemoEF.DAL.dll
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\obj\Debug\DemoEF.DAL.pdb
+c:\users\fabiano\documents\visual studio 2013\Projects\DemoEF\DemoEF.DAL\obj\Debug\DemoEF.DAL.csprojResolveAssemblyReference.cache
